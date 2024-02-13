@@ -21,3 +21,6 @@ within 100 years
 
 # Can it bypass vanilla?
 No.
+
+# Is it powerful?
+Indeed. Its so powerful It crashes your Computer
