@@ -5,6 +5,8 @@ Not romanian enough? take a look at the image below
 
 ![image](https://github.com/TeamBounce10/teambounce10-release/assets/153373550/d407b0f5-e931-40fb-ba71-494c5c3c4d05)
 
+its mainlly for verus. but i do infact try to add bypasses for other anticheats.
+
 # How do i download the hax!1
 First thing first. you need forge 1.8.9 and nasa PC
 
